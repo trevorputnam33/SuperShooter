@@ -1,2 +1,4 @@
-Base path: 'C:/Program Files/Trevor_Unity_Projects/2020.1.4f1/Editor/Data', plugins path 'C:/Program Files/Trevor_Unity_Projects/2020.1.4f1/Editor/Data/PlaybackEngines'
+Base path: 'C:/Program Files/Trevor_Unity_Projects/2020.1.4f1/Editor/Data', plugins path ''
+Cmd: initializeCompiler
+Cmd: initializeCompiler
 Cmd: initializeCompiler
